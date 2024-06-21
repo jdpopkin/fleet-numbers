@@ -1,0 +1,3 @@
+A few of these ranges are "evens only". I didn't attempt to represent that in any way.
+
+R160s are subdivided into R160As and R160Bs. Wikipedia lists more detailed information here, but I'm not sure if the normal "R160A" vs. "R160B" division (where As are made by Alstom and Bs by Kawasaki) corresponds to the cabs-vs-no-cabs distinction, the "'A-B-B-A' configuration" distinction, both, neither, etc.
