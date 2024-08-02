@@ -1,4 +1,4 @@
-[
+export const ranges = [
 	{
 		"min": 100,
 		"max": 174,
